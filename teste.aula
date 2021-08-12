@@ -1,4 +1,4 @@
 if [ -f arquivo ]
   then
-      echo "Arquivo Existe no Servidor"
+      echo "Arquivo Existe no Servidor 1"
 fi
